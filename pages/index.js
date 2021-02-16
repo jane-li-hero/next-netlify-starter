@@ -16,6 +16,7 @@ export default function Home() {
           Hello <code>pages/index.js</code>
         </p>
         <h2>Posts</h2>
+        <h2>Posts</h2>
       </main>
 
       <Footer />

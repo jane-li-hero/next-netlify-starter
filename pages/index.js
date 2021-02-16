@@ -17,6 +17,7 @@ export default function Home() {
         </p>
         <h2>Posts</h2>
         <h2>Posts</h2>
+        <h2>Posts</h2>
       </main>
 
       <Footer />
